@@ -44,13 +44,13 @@ module "keyvault_module" {
 
 /* Data: 15/04/2022
 Size				    vCPU	RAM		Preço VMs
-Standard_B1ls 		1		 0.5	R$    20,83
-Standard_B1s		  1		 1		R$    41,65
-Standard_B1ms	  	1		 2		R$    83,31
-Standard_B2s	  	2		 4		R$   166,62
-Standard_B2ms	  	2		 8		R$   333,24
-Standard_B4ms		  4		16		R$   664,87
-Standard_B8ms	  	8		32		R$ 1.333,75
+Standard_B1ls     1		 0.5	R$    20,83
+Standard_B1s      1		 1		R$    41,65
+Standard_B1ms     1		 2		R$    83,31
+Standard_B2s      2		 4		R$   166,62
+Standard_B2ms     2		 8		R$   333,24
+Standard_B4ms     4		16		R$   664,87
+Standard_B8ms     8		32		R$ 1.333,75
 
 Standard_D2s_v3		2		 8		R$   384,51
 Standard_D4s_v3		4		16		R$   769,01
